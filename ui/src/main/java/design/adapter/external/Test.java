@@ -21,7 +21,6 @@ public class Test
 
         test2.writeLog("asd");
 
-
         test1.getLog();
 
         test2.readLog();
